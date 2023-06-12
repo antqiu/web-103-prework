@@ -1,0 +1,15 @@
+h2 {
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.grid-container {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 1000px;
+    grid-gap: 1rem;
+    padding: 1.25rem;
+    border: solid 2px rgb(223, 223, 223);
+    border-radius: 1.25rem;
+}

@@ -1,0 +1,12 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+    margin: 2rem;
+    background-color: black;
+    color: white;
+    padding: .75rem;
+    border-radius: .25rem;
+    text-decoration-line: none;
+}
